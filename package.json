@@ -1,0 +1,9 @@
+{
+  "author": "sph_1996@yahoo.com",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.4.23",
+    "truffle-contract": "^4.0.31",
+    "vue": "^2.6.14"
+  }
+}
