@@ -1,5 +1,6 @@
 {
-  "author": "sph_1996@yahoo.com",
+  "name": "solidity-todolist",
+  "author": "sepehr.develop@gmail.com",
   "license": "ISC",
   "scripts": {
     "dev": "lite-server --browser \\\"chrome\\\"",
