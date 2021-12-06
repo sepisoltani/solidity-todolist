@@ -2,7 +2,7 @@
   "author": "sph_1996@yahoo.com",
   "license": "ISC",
   "scripts": {
-    "dev": "lite-server",
+    "dev": "lite-server --browser \\\"chrome\\\"",
     "test": "echo \"Error: no test specified\" && sexit 1"
   },
   "dependencies": {
